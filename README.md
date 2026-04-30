@@ -8,6 +8,7 @@ The [Go][] implementation of [gRPC][]: A high performance, open source, general
 RPC framework that puts mobile and HTTP/2 first. For more information see the
 [Go gRPC docs][], or jump directly into the [quick start][].
 
+
 ## Prerequisites
 
 - **[Go][]**: any one of the **two latest major** [releases][go-releases].
